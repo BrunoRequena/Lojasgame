@@ -1,0 +1,20 @@
+package br.org.generation.lojasgame;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+/*@RestController
+@RequestMapping("/")*/
+public class LojasgameApplication {
+	
+	/*@GetMapping
+	public ModelAndView swaggerUi() {
+		return new ModelAndView("redirect:/swagger-ui.html");
+	}*/
+	
+	public static void main(String[] args) {
+		SpringApplication.run(LojasgameApplication.class, args);
+	}
+
+}

@@ -1,0 +1,5 @@
+package br.org.generation.lojasgame.repository;
+
+public class CategoriaRepository {
+
+}
