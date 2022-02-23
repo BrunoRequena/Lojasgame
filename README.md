@@ -1,0 +1,2 @@
+# Lojasgame
+Loja_Game
